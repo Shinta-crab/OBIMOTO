@@ -75,9 +75,20 @@
   - ポイント集計機能
 
 ## ▫使用する技術スタック
-- バックエンド　　Ruby のRails  ７.３
-- フロントエンド　Hotwire、本リリ後にReactに切り替え予定
--  CSS 　　　　Tailwind CSS
--  データベース PostgreSQL
--  デプロイ　Render
--  Image Hosting AWS S3
+- 技術スタック構成
+  - バックエンド　　Ruby のRails  ７.３
+  - フロントエンド　Hotwire、本リリ後にReactに切り替え予定
+  -  CSS 　　　　Tailwind CSS
+  -  データベース PostgreSQL
+  -  デプロイ　Render
+  -  Image Hosting AWS S3
+-  利用予定のライブラリ
+   -  Devise
+   -  ancestry
+   -  store_model
+   -  enum
+   -  Action Cable
+   -  acts_as_taggable_on
+   -  Hotwire
+   -  ransack
+   -  acts_as_votable(MVP時に実装)
